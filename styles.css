@@ -1,0 +1,20 @@
+.calc{
+    display: flex;
+
+}
+#amount{
+    padding: 25px;
+    margin: 25px;
+
+}
+#rate
+    {
+    padding: 25px;
+    margin: 25px;
+    
+}
+#time{
+    padding: 25px;
+    margin: 25px;
+    
+}
